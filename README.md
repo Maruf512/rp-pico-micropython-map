@@ -1,4 +1,4 @@
-# rp-pico-micropython-map
+# rp-pico-micropython-map()
 
 Created in 2023 by Maruf Ahmed.
 this function will take 5 parameters and returns a desired value based on the inputs.
