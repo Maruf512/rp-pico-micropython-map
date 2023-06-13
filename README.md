@@ -8,7 +8,7 @@ this lib works just like arduino's CPP map() function.
 
 
 
-USE
+Use /n
 from map import Map
 value = 512
 x = Map(value, 0, 1023, 0, 255)
