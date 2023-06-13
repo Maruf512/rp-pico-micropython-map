@@ -5,7 +5,10 @@ this lib was created for raspberry pi pico. to add functionality like arduino.
 this lib works just like arduino's CPP map() function.
 
 
-#Use
+
+
+
+USE
 from map import Map
 value = 512
 x = Map(value, 0, 1023, 0, 255)
